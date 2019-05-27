@@ -1,0 +1,15 @@
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\bin\Debug\TaskManagerWpf.exe.config
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\bin\Debug\TaskManagerWpf.exe
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\bin\Debug\TaskManagerWpf.pdb
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\obj\Debug\TaskManagerWpf.csprojAssemblyReference.cache
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\obj\Debug\MainWindow.g.cs
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\obj\Debug\App.g.cs
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\obj\Debug\TaskManagerWpf_MarkupCompile.cache
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\obj\Debug\TaskManagerWpf_MarkupCompile.lref
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\obj\Debug\MainWindow.baml
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\obj\Debug\TaskManagerWpf.g.resources
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\obj\Debug\TaskManagerWpf.Properties.Resources.resources
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\obj\Debug\TaskManagerWpf.csproj.GenerateResource.cache
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\obj\Debug\TaskManagerWpf.csproj.CoreCompileInputs.cache
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\obj\Debug\TaskManagerWpf.exe
+c:\users\шулякд\source\repos\TaskManagerWpf\TaskManagerWpf\obj\Debug\TaskManagerWpf.pdb
